@@ -7,7 +7,7 @@
 ALOHA,welcome to my index,
 
 - 🔭 I’m currently taking part in the entrance exams for postgraduate schools and thinking it hard for me
- -🌱 I’m currently learning how to play guitar, write accademically, and English
+-🌱 I’m currently learning how to play guitar, write accademically, and English
 - 👯 I’m looking to collaborate on music, movies, cool AI stuff, anything I think is fun and worth while. 
 - 🤔 I’m learning springboot, vue and taking part in the entrance exams for postgraduate schools
 - 💬 Ask me about chinese life, ping pong, kong fu, and cute panda
