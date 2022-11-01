@@ -14,4 +14,4 @@ ALOHA,welcome to my index,
 - 📫 How to reach me: 389307471@qq.com
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis(it is really funny)
-the end, have a good day, and hope you no bug 
+-  the end, have a good day, and hope you no bug 
