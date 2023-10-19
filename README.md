@@ -12,5 +12,4 @@
 - 🤔 I’m learning springboot, vue and taking part in the entrance exams for postgraduate schools
 - 💬 Ask me about chinese life, ping pong, kong fu, and cute panda
 - 📫 How to reach me: 389307471@qq.com
-- ⚡ Fun fact: The clitoris has twice as many nerve endings as the penis(it is really funny)<br>
 **the end, have a good day, and hope no bug**
